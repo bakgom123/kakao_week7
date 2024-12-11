@@ -1,0 +1,29 @@
+# Node specific
+node_modules
+npm-debug.log
+npm-debug.log.*
+
+# Development files
+.git
+.gitignore
+README.md
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE specific
+.vscode
+.idea
+*.swp
+*.swo
+
+# Build outputs
+dist
+build
+*.log
+
+# Docker
+Dockerfile
+.dockerignore
